@@ -41,9 +41,6 @@
   <a href="https://www.instagram.com/_mmcarvalho/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-_mmcarvalho-05122A?style=flat&logo=instagram" alt="instagram">
   </a>
-  <a href="https://twitter.com/MatheusCarv69" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-MatheusCarv69-05122A?style=flat&logo=twitter" alt="twitter">
-  </a>
   <a href="https://www.linkedin.com/in/matheus-carvalho69/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-MatheusCarv69-05122A?style=flat&logo=linkedin" alt="linkedin">
   </a>
